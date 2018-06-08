@@ -12,6 +12,12 @@ Add this line to your application's Gemfile:
 gem 'yam_view_tool'
 ```
 
+## Usage 
+
+```ruby
+YamViewTool::Renderer.copyright("Alexandre Yameogo","Tous droits réservés")
+```
+
 And then execute:
 
     $ bundle
